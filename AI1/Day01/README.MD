@@ -109,10 +109,14 @@
   * 프로그램의 실행흐름을 제어하기 위해 사용함  
     * 조건문 (if문, if ~ else문, if ~ elif ~ else문)  
       * if문  
+        <pre>
+        <code>
         if(10 == 10):  
           print("10과 10은 같다")  
         if(10 > 5):  
           print("10은 5보다 크다")  
+        </code>
+        </pre>
       * if ~ else문  
         if(10 == 10):  
           print("10과 10은 같다")  
