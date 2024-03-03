@@ -117,19 +117,26 @@
           print("10은 5보다 크다")  
         </code>
         </pre>
-      * if ~ else문  
+      * if ~ else문
+        <pre>
+        <code>
         if(10 == 10):  
           print("10과 10은 같다")  
         else:  
           print("10과 10은 다르다")  
+        </code>
+        </pre>
       * if ~ elif ~ else문  
+        <pre>
+        <code>
         if(10 == 10):  
           print("10과 10은 같다")  
         elif(10 > 5):  
           print("10은 5보다 크다")  
         else:  
           print("10과 10은 다르다")  
-
+        </code>
+        </pre>
     
 
 
