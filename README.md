@@ -6,3 +6,4 @@
 
 ## AI2
 -------------------------
+[Day01](https://github.com/ggreing/Computer-AI/blob/main/AI2/Day01/README.MD)
